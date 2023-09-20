@@ -1,0 +1,3 @@
+com/majedul/uploadingfiles/FileUploadTests.class
+com/majedul/uploadingfiles/FileUploadIntegrationTests.class
+com/majedul/uploadingfiles/storage/FileSystemStorageServiceTests.class
